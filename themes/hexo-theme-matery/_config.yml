@@ -151,8 +151,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fab fa-github-alt
-  url: https://github.com/serrayying
-
+  url: https://github.com/SyreniaPloto
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
@@ -589,7 +588,7 @@ featureImages:
 - /medias/featureimages/63.jpg
 - /medias/featureimages/64.jpg
 - /medias/featureimages/65.jpg
-
+- /medias/featureimages/66.jpg
 
 # default configs that the default policy for every articles/posts
 # default 配置文章的默认转载规则
@@ -612,7 +611,7 @@ featureImages:
 # pay（付费转载 pay for reprinting）
 reprint:
   enable: true # whether enable reprint section 是否启用“转载规则限定模块”
-  default: cc_by_bc
+  default: cc_by_nc_sa
 
 # DaoVoice online contact
 daovoice:
