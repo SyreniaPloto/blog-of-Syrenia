@@ -170,7 +170,7 @@ socialLink:
 # 是否激活文章 TOC 功能，并配置TOC支持选中哪些标题类型，这是全局配置。
 # 可以在某篇文章的 Front-matter 中再加上`toc: false`，使该篇文章关闭TOC目录功能
 toc:
-  enable: false
+  enable: true
   heading: h2, h3, h4
   collapseDepth: 0 # 目录默认展开层级
   showToggleBtn: true # 是否显示切换TOC目录展开收缩的按钮
@@ -403,7 +403,7 @@ changyan:
 # Whether to display fork me on github icon and link, default true, You can change it to your repo address
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
-  enable: true
+  enable: false
   url: https://github.com/blinkfox/hexo-theme-matery
   title: Fork Me
 
